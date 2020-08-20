@@ -51,7 +51,7 @@
                     </Border>
                     <ScrollViewer>
                         <ListBox materialDesign:ListBoxAssist.IsToggle="True" Style="{StaticResource MaterialDesignFilterChipListBox}" ItemsSource="{Binding mainModel.FullNameList}" Background="AliceBlue" Height="116"/>
-
+   
                     </ScrollViewer>
 
 
